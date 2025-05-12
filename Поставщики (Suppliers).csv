@@ -1,0 +1,26 @@
+SupplierID;SupplierName;ContactName;Phone;Email;Address
+1;AutoParts Ltd;Игорь Новиков;74951234567;info@autoparts.ru;Москва, ул. Тверская 10
+2;CarTech;Олег Семенов;78122445566;sales@cartech.com;СПб, Литейный пр. 25
+3;PartsGlobal;Виктор Иванов;73832223344;viktor@pg.com;Екатеринбург, ул. Маяковского 15
+4;EuroAuto;Андрей Петров;79161231234;euro@auto.ru;Казань, ул. Баумана 5
+5;FastDelivery;Денис Сидоров;79035551234;fd@fast.ru;Новосибирск, ул. Красный проспект 100
+6;GermanParts GmbH;Ханс Мюллер;493012345678;hans@deutscheparts.de;Берлин, Friedrichstra?e 88
+7;TokyoAuto;Такаши Ямада;81398765432;tokyo@autos.jp;Токио, Shinjuku 1-2-3
+8;USA Motors;Джон Смит;12125551234;usa@motors.com;Нью-Йорк, Broadway 500
+9;ItalCar;Лука Россо;390612345678;italy@italcar.it;Рим, Via del Corso 15
+10;FrenchAuto;Пьер Дюпон;33123456789;france@auto.fr;Париж, Champs-Elysees 72
+11;ChinaParts;Ли Вэй;861055556789;china@parts.cn;Пекин, Dongcheng District
+12;Scandinavia Motors;Олаф Йоханссон;4681234567;scandic@motors.se;Стокгольм, Sveavagen 10
+13;TurboTech;Ахмет Йылмаз;90212345678;turbo@tech.com.tr;Стамбул, Istiklal Caddesi 45
+14;KoreanParts;Ким Мин Хо;82298765432;korea@autoparts.kr;Сеул, Gangnam-gu 123
+15;DubaiAuto;Али Хасан;97142234567;dubai@auto.ae;Дубай, Sheikh Zayed Road 1001
+16;PolishAuto;Ян Ковальски;48221234567;poland@auto.pl;Варшава, Nowy Swiat 5
+17;MoscowCar;Дмитрий Волков;74997654321;moscow@car.ru;Москва, ул. Арбат 25
+18;BalkanParts;Иван Петрович;38111234567;balkan@parts.rs;Белград, Knez Mihailova 7
+19;SpanishAuto;Карлос Гарсия;34911234567;spain@auto.es;Мадрид, Gran Via 44
+20;CanadianParts;Джеймс Уилсон;14165551234;canada@parts.ca;Торонто, Yonge Street 200
+21;IndianMotors;Раджеш Кумар;911198765432;india@motors.in;Мумбаи, Marine Drive 50
+22;BrazilAuto;Пауло Силва;5521987654321;brazil@auto.com.br;Рио-де-Жанейро, Copacabana 150
+23;SwissParts;Томас Мюллер;41441234567;swiss@parts.ch;Цюрих, Bahnhofstrasse 30
+24;DutchAuto;Йохан ван дер Берг;31201234567;netherlands@auto.nl;Амстердам, Damrak 1
+25;AustrianTech;Франц Хубер;431234567890;austria@tech.at;Вена, Karntner Stra?e 10

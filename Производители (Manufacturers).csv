@@ -1,0 +1,26 @@
+ManufacturerID;Name               ;Country      ;ContactPhone     ;Email                
+1;Bosch                ;Germany      ;+49 30 1234567 ;contact@bosch.com    
+2;Denso                ;Japan        ;+81 3 98765432 ;info@denso.jp        
+3;Valeo                ;France       ;+33 1 23456789 ;sales@valeo.com      
+4;Brembo               ;Italy        ;+39 02 11223344;support@brembo.it    
+5;Magneti Marelli      ;Italy        ;+39 06 55443322;mm@magneti.com       
+6;Aisin                ;Japan        ;+81 3 11223344 ;contact@aisin.jp     
+7;ZF Friedrichshafen   ;Germany      ;+49754112345;info@zf.com          
+8;Continental          ;Germany      ;+49511987654;sales@continental.de 
+9;Delphi Technologies  ;USA          ;+12485550101;support@delphi.com   
+10;Mahle               ;Germany      ;+4971156789;contact@mahle.com    
+11;NGK Spark Plug      ;Japan        ;+81 52 7890123 ;info@ngk.co.jp       
+12;Tenneco             ;USA          ;+18475551234;tenneco@tenneco.com  
+13;Federal-Mogul       ;USA          ;+12485555678;federalmogul@fm.com  
+14;Hella               ;Germany      ;+49524591011;hella@hella.com      
+15;SKF                 ;Sweden       ;+46 8 1234567  ;support@skf.se       
+16;Gates Corporation   ;USA          ;+13035559101;gates@gates.com      
+17;LuK                 ;Germany      ;+49711123456;info@luk.de          
+18;Sachs               ;Germany      ;+499561654321;sachs@sachs.com      
+19;TRW Automotive      ;USA          ;+12485552222;trw@trw.com          
+20;KYB                 ;Japan        ;+81 3 98761234 ;kyb@kyb.co.jp        
+21;Monroe              ;USA          ;+18005557890;monroe@monroe.com    
+22;Bilstein            ;Germany      ;+492025551212;bilstein@bilstein.de 
+23;Mann-Filter         ;Germany      ;+497141980;mann@mann-filter.com 
+24;Febi                ;Germany      ;+49 30 11223344;febi@febi.de         
+25;Lemforder           ;Germany      ;+495119998888;lemforder@zflenks.com
